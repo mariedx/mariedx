@@ -1,4 +1,4 @@
-![](images/banner.png)
+![](images/banner2.png)
 
 **🚀 Currently working with:**
 
