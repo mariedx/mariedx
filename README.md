@@ -12,7 +12,4 @@
 - React & Redux
 - UX Design
 
-**🌝 About me:**
-
-- 8 years in Human resources, latest position as Compensation & Benefits Analyst
-- Fluent in French, English & Spanish 
+🌝 Fluent in French, English & Spanish 
