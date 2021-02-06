@@ -11,5 +11,3 @@
 
 - React & Redux
 - UX Design
-
-🌝 Fluent in French, English & Spanish 
