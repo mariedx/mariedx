@@ -9,5 +9,5 @@
 
 **🌱 Currently learning:**
 
-- React & Redux
+- React
 - UX Design
